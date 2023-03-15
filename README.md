@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hardik</h1>
-<h3 align="center">I'm currently trying to learn everything</h3>
+<h3 align="center">I'm currently exploring a lot of fields in Computer Science, including but not limited to CyberSecurity, NLP, CV</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhardik003&label=Profile%20views&color=0e75b6&style=flat" alt="mhardik003" /> </p>
 
