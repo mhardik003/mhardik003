@@ -52,12 +52,16 @@
 
 ---
 <h2> Stats </h2>
-      
+     
+
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false" alt="cxyfreedom" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cxyfreedom&theme=material-palenight&hide_border=false" alt="cxyfreedom" /></p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxyfreedom&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="cxyfreedom" /></p>     
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhardik003" alt="mhardik003" /></a> </p> -->
-
+<!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhardik003&show_icons=true&locale=en&layout=compact" alt="mhardik003" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mhardik003&" alt="mhardik003" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mhardik003&" alt="mhardik003" /></p> -->
 
 ![Snake animation](https://github.com/mhardik003/mhardik003/blob/output/github-contribution-grid-snake.svg)
