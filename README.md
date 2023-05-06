@@ -4,6 +4,8 @@
 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/programmer.gif" width="300" height="192" />
+
 - 🏦 I'm a undergraduate student researcher @ CVIT,IIITH
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I am currently working on projects related to CV and NLP ( a bit of cyber security )
@@ -18,7 +20,6 @@
 
 
 - 🧑‍💻 Tech I work on 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/programmer.gif" width="300" height="192" />
 
 <p align="left">
 
