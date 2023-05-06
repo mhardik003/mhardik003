@@ -1,7 +1,7 @@
 ![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
 
 <h1>Hi 👋, I'm Hardik</h1>
-<h3 align="center">I'm currently exploring a lot of fields including but not limited to CyberSecurity, NLP, CV</h3>
+
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a undergraduate student researcher @ CVIT,IIITH
@@ -9,25 +9,21 @@
 - 📝 I am currently working on projects related to CV and NLP ( a bit of cyber security )
 - 💻 I use daily: **.py**, **.c**, **.cpp**,  **.js**
 - 💬 Talk to me about machine learning, python, silicon valley & startups or AI singularity
-- 🤓 Connect with me at : <a href="https://linkedin.com/in/mhardik003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hardik-mittal-8a3a76186" height="10" width="13" /></a>
+- 🤓 Connect with me at : <a href="https://linkedin.com/in/mhardik003" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hardik-mittal-8a3a76186" height="20" width="26" /></a>
 
 - 📫 How to reach me:
-
     * [**Drop a Mail**](mailto:mhardik2003@gmail.com)
-
     * [**Connect via LinkedIn**](https://www.linkedin.com/in/mhardik003/)
-
     * [**Visit my Website**](https://mhardik003.github.io/)
 
 
 - 🧑‍💻 Tech I work on 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" width="500" height="320" />
 
 <p align="left">
 
 <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://pytorch.org/" target="_blank"> 
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  
+<a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>  
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
@@ -54,9 +50,10 @@
 
 
 ---
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhardik003" alt="mhardik003" /></a> </p>
+<h2> Stats </h2>
+      
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhardik003" alt="mhardik003" /></a> </p> -->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhardik003&show_icons=true&locale=en&layout=compact" alt="mhardik003" /></p>
 
