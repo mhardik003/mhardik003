@@ -2,9 +2,8 @@
 
 <br>
 <h1 align="center">Hi 👋, I'm Hardik</h1>
-<br>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <b>About Me:</b>
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/programmer.gif" width="400" height="256" />
 
 - 🏦 I'm a undergraduate student researcher @ CVIT,IIITH
@@ -12,7 +11,7 @@
 - 📝 I am currently working on projects related to CV and NLP ( a bit of cyber security )
 - 💻 I use daily: **.py**, **.c**, **.cpp**,  **.js**
 - 💬 Talk to me about machine learning, python, silicon valley & startups or AI singularity
-- 🤓 Connect with me at : <a href="https://linkedin.com/in/mhardik003" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hardik-mittal-8a3a76186" height="20" width="26" /></a>
+- 🤓 Connect with me at : <a href="https://linkedin.com/in/mhardik003" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hardik-mittal-8a3a76186" height="29" width="27" /></a>
 
 - 📫 How to reach me:
     * [**Drop a Mail**](mailto:mhardik2003@gmail.com)
@@ -48,19 +47,20 @@
 
 
 
+<br>
 
 
----
 <h2> Stats </h2>
-     
 
-<!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=mhardik003&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="cxyfreedom" /></p> -->
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhardik003&theme=transparent&hide_border=false&show_icons=true" alt="cxyfreedom" /></p> <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhardik003&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact&show_icons=true" alt="cxyfreedom" /></p>     
+-------------
+
+<br>
+<!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=mhardik003&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="mhardik003" /></p> -->
+<img align=""
+ src="https://github-readme-streak-stats.herokuapp.com/?user=mhardik003&theme=react&hide_border=false&show_icons=true" alt="mhardik003" />    &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhardik003&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact&show_icons=true" alt="mhardik003" />
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhardik003" alt="mhardik003" /></a> </p> -->
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhardik003&show_icons=true&locale=en&layout=compact" alt="mhardik003" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mhardik003&" alt="mhardik003" /></p> -->
 
-![Snake animation](https://github.com/mhardik003/mhardik003/blob/output/github-contribution-grid-snake.svg)
+
+
