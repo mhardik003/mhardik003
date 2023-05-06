@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **mhardik2003@gmail.com**
 
+![Snake animation](https://github.com/mhardik003/mhardik003/blob/output/github-contribution-grid-snake.svg)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
