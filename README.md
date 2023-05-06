@@ -56,8 +56,8 @@
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhardik003" alt="mhardik003" /></a> </p> -->
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhardik003&show_icons=true&locale=en&layout=compact" alt="mhardik003" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhardik003&show_icons=true&locale=en&layout=compact" alt="mhardik003" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhardik003&" alt="mhardik003" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mhardik003&" alt="mhardik003" /></p>
 
 ![Snake animation](https://github.com/mhardik003/mhardik003/blob/output/github-contribution-grid-snake.svg)
