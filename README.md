@@ -55,8 +55,8 @@
 
 <br>
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=mhardik003&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="mhardik003" /></p> -->
-<img align=""
- src="https://github-readme-streak-stats.herokuapp.com/?user=mhardik003&theme=react&hide_border=false&show_icons=true" alt="mhardik003" width="400" height="auto"/>    &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp;  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhardik003&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact&show_icons=true" alt="mhardik003" width="250" />
+<img align="left"
+ src="https://github-readme-streak-stats.herokuapp.com/?user=mhardik003&theme=react&hide_border=false&show_icons=true" alt="mhardik003" width="300" height="auto"/>    &nbsp; &nbsp;   &nbsp;  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhardik003&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact&show_icons=true" alt="mhardik003" width="200" />
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhardik003" alt="mhardik003" /></a> </p> -->
 
