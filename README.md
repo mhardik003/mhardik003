@@ -1,3 +1,5 @@
+![1642320423853](https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg)
+
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 <h3 align="center">I'm currently exploring a lot of fields including but not limited to CyberSecurity, NLP, CV</h3>
 
