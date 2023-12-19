@@ -1,10 +1,12 @@
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif" width="400" height="256" />
+ <p align="center">
+      <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
+</p>
+
 
 <br>
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <b>About Me:</b>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/programmer.gif" width="400" height="256" />
 
 - 🏦 I'm a undergraduate student researcher @ CVIT,IIITH
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
