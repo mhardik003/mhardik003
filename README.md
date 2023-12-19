@@ -2,8 +2,6 @@
       <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
 </p>
 
-
-<br>
 <h1 align="center">Hi 👋, I'm Hardik</h1>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> <b>About Me:</b>
@@ -11,7 +9,7 @@
 - 🏦 I'm a undergraduate student researcher @ CVIT,IIITH
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I am currently working on projects related to CV and NLP ( a bit of cyber security )
-- 💻 I use daily: **.py**, **.c**, **.cpp**,  **.js**
+- 💻 I use daily: **.ipynb**, **.py**, **.c**, **.cpp**,  **.js**
 - 💬 Talk to me about machine learning, python, silicon valley & startups or AI singularity
 - 🤓 Connect with me at : <a href="https://linkedin.com/in/mhardik003" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hardik-mittal-8a3a76186" height="29"  /></a>
 
