@@ -16,7 +16,7 @@
 <h3 align="left">📫 How to reach me:</h3>
 
 * [**Drop a Mail**](mailto:hardik.mittal@research.iiit.ac.in)
-* [**Visit my Website**](https://mhardik003.github.io/)
+* [**Visit my Website**](https://hardik-mittal.in/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
