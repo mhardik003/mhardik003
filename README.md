@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mhardik003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vividh_pandey" height="30" width="40" /></a>
+<a href="[https://x.com/snookie_thought]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/snookie_thought" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mhardik003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vividh-pandey-4bbb95220" height="30" width="40" /></a>
 <a href="https://instagram.com/mhardik003_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vividh_13" height="30" width="40" /></a>
 </p>
@@ -62,8 +62,7 @@
 
 <br>
 <!-- <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=mhardik003&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&show_icons=true" alt="mhardik003" /></p> -->
-<img align="left"
- src="https://github-readme-streak-stats.herokuapp.com/?user=mhardik003&theme=react&hide_border=false&show_icons=true" alt="mhardik003" width="500" height="auto"/> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhardik003&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact&show_icons=true" alt="mhardik003" width="300" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhardik003&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact&show_icons=true" alt="mhardik003" width="300" />
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhardik003" alt="mhardik003" /></a> </p> -->
 
